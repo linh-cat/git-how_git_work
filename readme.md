@@ -7,3 +7,6 @@
     + Trees
     + Commits
     + Annotated tag
+
+- git merge: create commit merge branch.
+- git rebase: no create commit merge branch.
